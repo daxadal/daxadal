@@ -1,5 +1,7 @@
 # ¡Hola, bienvenido!
 
+_(English version also available [here](https://github.com/daxadal/daxadal/blob/main/README.md))_
+
 Mi nombre es Eric García de Ceca Elejoste.
 Soy Desarrollador Senior Fullstack con experiencia en Javascript / Typescript, especialmente en NodeJS, React y Vue.js.
 
