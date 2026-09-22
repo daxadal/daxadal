@@ -25,13 +25,13 @@ I also did small contributions to open-source projects:
 
 # My JS / TS projects
 
-Throughout the years, I've developed some projects for my personal portfolio at [GitHub](https://github.com/daxadal/daxadal) and [GitLab](https://gitlab.com/egarciadececa):
+Throughout the years, I've developed some projects for my personal portfolio at [GitHub](https://github.com/daxadal) and [GitLab](https://gitlab.com/egarciadececa):
 
 - [Alchemy API](https://gitlab.com/egarciadececa/alchemy-api): An alchemy mini-game in the form of an API.
 API developed with NodeJS and Tsoa over Express.
 
 - [Cooking API](https://gitlab.com/egarciadececa/cooking-api) / [Cooking Vue](https://gitlab.com/egarciadececa/cooking-vue): App inspired by time-management cooking games.
-  API developed with NodeJS and Express.
+  API developed with NodeJS and Express;
   User interface developed with Vue.js
 
 - [React Components](https://gitlab.com/egarciadececa/react-components): A personalized set of components for React, packed in a library.
@@ -39,7 +39,7 @@ API developed with NodeJS and Tsoa over Express.
 - [Tic Tac Toe](https://github.com/daxadal/tic-tac-toe-react): A little project to practice all React, Typescript and Styled Components together.
 
 - [Event Manager API](https://github.com/daxadal/event-manager) _(WIP\*)_ / [Event Manager React](https://github.com/daxadal/event-manager-react) _(WIP\*)_: Simplified event creation and subscription app.
-  Backend developed with NodeJS, Express and Socket.io.
+  Backend developed with NodeJS, Express and Socket.io;
   User interface developed using React.
 
 _\* Projects marked as WIP aren't 100% complete, so functionalities might be missing or bugs might be present_
